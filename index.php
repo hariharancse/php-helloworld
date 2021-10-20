@@ -1,8 +1,7 @@
 <html>
- <head>
-  <title>Welcome</title>
- </head>
- <body>
- <?php echo '<p>Hello World</p>'; ?> 
- </body>
+<body>
+
+hey jenkin
+
+</body>
 </html>
